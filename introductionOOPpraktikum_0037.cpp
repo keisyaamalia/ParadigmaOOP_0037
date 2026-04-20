@@ -18,5 +18,11 @@ cout << "tanggalproduksi : " << tanggalproduksi << endl;
 };
 int main()
 {
+    Barang elektronik;
+    elektronik.nama = "televisi";
+    elektronik.jumlah = 8; 
+    elektronik.kategori = "elektronik";
+    elektronik.tanggalproduksi = "2026/20/04";
 
+    elektronik.spesifikasi();
 }
