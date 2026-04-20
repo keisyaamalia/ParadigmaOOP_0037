@@ -7,4 +7,9 @@ string nama;
     int jumlah;
     string kategori;
     string tanggalproduksi;
+
+    void spesifikasi()
+ {
+
+ }
 };
