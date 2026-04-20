@@ -14,3 +14,7 @@ cout << "Nama : " << nama << endl;
 cout << "Nlai : " << nilai << endl;
  }
 };
+int main()
+{
+
+}
