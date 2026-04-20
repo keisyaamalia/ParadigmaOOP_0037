@@ -7,3 +7,7 @@ class Mahasiswa
     string nama;
     float nilai;
 }; //batas class
+void printData()
+    {
+
+    }
