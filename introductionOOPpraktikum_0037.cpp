@@ -16,3 +16,7 @@ cout << "kategori : " << kategori << endl;
 cout << "tanggalproduksi : " << tanggalproduksi << endl;
  }
 };
+int main()
+{
+
+}
