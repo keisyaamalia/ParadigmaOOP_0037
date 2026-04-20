@@ -25,4 +25,13 @@ int main()
     elektronik.tanggalproduksi = "2026/20/04";
 
     elektronik.spesifikasi();
+
+    Barang nonelektronik;
+    nonelektronik.nama = "lemari";
+    nonelektronik.jumlah = 7; 
+    nonelektronik.kategori = "nonelektronik";
+    nonelektronik.tanggalproduksi = "2026/20/04";
+
+    nonelektronik.spesifikasi();
+
 }
