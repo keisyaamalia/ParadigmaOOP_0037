@@ -10,6 +10,6 @@ string nama;
 
     void spesifikasi()
  {
-
+cout << "nama : " << nama << endl;
  }
 };
