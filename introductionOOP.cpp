@@ -6,8 +6,9 @@ class Mahasiswa
     int nim;
     string nama;
     float nilai;
-}; //batas class
+ //batas class
 void printData()
-    {
-
-    }
+ {
+cout << "Nim : " << nim << endl;
+ }
+};
