@@ -11,5 +11,6 @@ string nama;
     void spesifikasi()
  {
 cout << "nama : " << nama << endl;
+cout << "Jumlah : " << jumlah << endl;
  }
 };
