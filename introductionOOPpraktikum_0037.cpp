@@ -12,5 +12,6 @@ string nama;
  {
 cout << "nama : " << nama << endl;
 cout << "Jumlah : " << jumlah << endl;
+cout << "kategori : " << kategori << endl;
  }
 };
