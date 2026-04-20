@@ -10,5 +10,6 @@ class Mahasiswa
 void printData()
  {
 cout << "Nim : " << nim << endl;
+cout << "Nama : " << nama << endl;
  }
 };
