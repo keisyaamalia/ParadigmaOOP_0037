@@ -11,5 +11,6 @@ void printData()
  {
 cout << "Nim : " << nim << endl;
 cout << "Nama : " << nama << endl;
+cout << "Nlai : " << nilai << endl;
  }
 };
